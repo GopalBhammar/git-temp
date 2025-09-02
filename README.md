@@ -1,8 +1,7 @@
 # git-temp
-<h1> gopal bhammar </h1>
-## first commit
 
-## made to file 
+
+## changr in files
  ### indecx.py
   and
   ### main.py
